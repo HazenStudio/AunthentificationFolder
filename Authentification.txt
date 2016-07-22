@@ -1,5 +1,5 @@
 {
-"login": "karim",
+"login": "karim@gmail.com",
 "password": "123456",
 "user":
 {
